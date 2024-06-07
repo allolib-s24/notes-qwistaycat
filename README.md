@@ -21,4 +21,7 @@ https://github.com/allolib-s24/notes-qwistaycat/assets/53279091/60651c27-a234-49
 
 [6. default allolib instrument](myLib/README.md)
 
-- Process: I quickly realized that just testing with random values in frequencies and the ADSR envelope values to get a sonically pleasant sound was ineffective. So, I  
+- Process: I quickly realized that just testing with random values in frequencies and the ADSR envelope values to get a sonically pleasant sound was ineffective. So, I reviewed theory notes from class about Fourier Transformation to decide the coefficients of the sine waves to make up the sound. I choose amplitude values to avoid clipping and halving frequencies to produce more coherant-sounding instruments than randomly picked values.
+
+## Project 3 -- Multi-instrumental, visual, midi-to-07_SineEnv_Waveform.cpp-synthsequence converter
+[link]()
