@@ -8,19 +8,19 @@ https://github.com/allolib-s24/notes-qwistaycat/assets/53279091/60651c27-a234-49
 ## Project 2 -- Sound Synthesis: Five funky instruments made with 07_AddSyn.cpp
 - Values for each instrument are:
 
-[0. xylophone](allolib_playground/tutorials/synthesis/bin/AddSyn-data/0.preset)
+[0. xylophone]
 
-[1. plucked chimes](myLib/README.md)
+[1. plucked chimes]
 
-[2. pian-jo (banjo )](myLib/README.md)
+[2. pian-jo (banjo )]
 
-[3. triangle](myLib/README.md)
+[3. triangle]
 
-[4. banjo-synth](myLib/README.md)
+[4. banjo-synth]
 
-[5. beat](myLib/README.md)
+[5. beat]
 
-[6. default allolib instrument](myLib/README.md)
+[6. default allolib instrument]
 
 Process: 
 
