@@ -10,17 +10,17 @@ https://github.com/allolib-s24/notes-qwistaycat/assets/53279091/60651c27-a234-49
 
 [0. xylophone](allolib_playground/tutorials/synthesis/bin/AddSyn-data/0.preset)
 
-[1. plucked chimes]
+[1. plucked chimes](allolib_playground/tutorials/synthesis/bin/AddSyn-data/1.preset)
 
-[2. pian-jo (banjo )]
+[2. pian-jo (banjo )](allolib_playground/tutorials/synthesis/bin/AddSyn-data/2.preset)
 
-[3. triangle]
+[3. triangle](allolib_playground/tutorials/synthesis/bin/AddSyn-data/3.preset)
 
-[4. banjo-synth]
+[4. banjo-synth](allolib_playground/tutorials/synthesis/bin/AddSyn-data/4.preset)
 
-[5. beat]
+[5. beat](allolib_playground/tutorials/synthesis/bin/AddSyn-data/5.preset)
 
-[6. default allolib instrument]
+[6. default allolib instrument](allolib_playground/tutorials/synthesis/bin/AddSyn-data/6.preset)
 
 Process: 
 
