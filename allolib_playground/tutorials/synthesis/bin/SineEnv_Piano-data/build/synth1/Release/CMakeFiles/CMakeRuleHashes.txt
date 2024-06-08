@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+d9fbc11920e72f13c462aeda047cd005 /Users/christyyu/Desktop/github/allolib_playground/allolib/build/Release/external/glfw/src/CMakeFiles/update_mappings
+c3d63eb7c5b7a38c713d13fed5f29e56 /Users/christyyu/Desktop/github/allolib_playground/allolib/build/Release/external/rtaudio/CMakeFiles/RTAUDIO_UNINSTALL
+8ae8655ae940b89ad22e4b0c05a90220 /Users/christyyu/Desktop/github/allolib_playground/allolib/build/Release/external/rtmidi/CMakeFiles/RTMIDI_UNINSTALL
+0f4942933b175f87d3407ef40fcb46c2 CMakeFiles/synth1_run
+fb41a7510d69167d51ae9e2d4215f182 CMakeFiles/synth1_run_debug

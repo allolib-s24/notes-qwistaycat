@@ -1,0 +1,21 @@
+@ 0 4 OscEnv 0.3 262 0.1 0.075 0.7 4 0.2 1
+@ 2 4 OscEnv 0.3 220 0.1 0.075 0.7 4 0.2 1
+@ 4 4 OscEnv 0.3 262 2 0.3 0.7 0 -0.2 1
+@ 8 4 OscEnv 0.3 262 0.1 0.075 0.7 4 0 1
+@ 12 4 OscEnv 0.3 262 3 0.3 0.9 0 0 1
+@ 16 4 OscEnv 0.3 262 0.1 2 0.7 4 -0.6 1
+@ 20 4 OscEnv 0.3 262 0.15 0.3 0.5 0 0 1
+@ 24 4 OscEnv 0.3 26.2 0.1 0.075 0.7 4 0.6 1
+@ 28 4 OscEnv 0.3 262 0.15 0.3 0.5 0 0 1
+@ 32 10 OscEnv 0.1 262 0.1 0.075 0.7 4 0.2 1
+@ 32 10 OscEnv 0.1 262 2 0.3 0.7 0 -0.2 1
+@ 32 10 OscEnv 0.1 263 0.1 0.075 0.7 4 1 1
+@ 32 10 OscEnv 0.1 261 3 0.3 0.9 0 -1 1
+@ 32 10 OscEnv 0.1 262.5 0.1 2 0.7 4 0 1
+@ 32 10 OscEnv 0.1 262 0.15 0.3 0.5 0 0 1
+@ 32 10 OscEnv 0.1 26.4 0.1 0.075 0.7 4 0.6 1
+@ 32 10 OscEnv 0.1 265 0.15 0.3 0.5 0 0.7 1
+#   OscEnv amplitude frequency attackTime sustain releaseTime curve pan table
+# amplitude frequency attackTime sustain releaseTime curve pan table   
+# Table 
+# / 0.tbSaw / 1.tbSqr / 2.tbImp / 3.tbSin / 4.tbPls / 5-8. tb__1-4 /

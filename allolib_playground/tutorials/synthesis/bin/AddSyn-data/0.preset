@@ -1,0 +1,26 @@
+::0
+/amp f 0.040000 
+/ampLow f 1.000000 
+/ampStri f 0.771000 
+/ampUp f 1.000000 
+/attackLow f 0.001000 
+/attackStri f 0.010000 
+/attackUp f 0.010000 
+/freqLow1 f 2.500000 
+/freqLow2 f 2.500000 
+/freqStri1 f 1.000000 
+/freqStri2 f 1.000000 
+/freqStri3 f 2.500000 
+/freqUp1 f 5.000000 
+/freqUp2 f 5.000000 
+/freqUp3 f 5.000000 
+/freqUp4 f 5.000000 
+/frequency f 513.737427 
+/pan f 0.000000 
+/releaseLow f 1.002000 
+/releaseStri f 0.975000 
+/releaseUp f 1.000000 
+/sustainLow f 0.785000 
+/sustainStri f 0.785000 
+/sustainUp f 0.779000 
+::
