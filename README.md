@@ -33,15 +33,12 @@ At first, I wanted to remake the sound of a variety of real instruments like gui
 This project had several parts:
 1. Multi-instrumental midi to synth-sequence conversion
 
-hi
+I modified Mateo's single instrument midi to 01_SinEnv_Piano.cpp synthsequence script. I added a part to look at the channels from each midi 'message', which is supposed to represent the scores for the different instruments that the midi file had. In the code, I had dictionaries that established the mapping of the 16 channels to different instruments (from 0-6, 0-5 being my custom instruments). Then, I changed the synthsequence file format to match 02_OscEnv instead of 01_SineEnv_Piano's, since OscEnv has multiple instruments for me to test if the channel connection was implemented correctly. I then converted the syntax to 07_AddSyn_Waveform.cpp so I could save the values of the custom instruments implemented from project 2.
 
 2. Custom Instruments (Project 2)
 
-hi
+See project 2 above for this section. 
 
 3. Visuals
 
-hi
-
-
-## Reflection
+I added an option for the waveform to change color, saturation, or value (opacity) based on the channel playing, so that there was a different color every instrument. In order to do this, I needed a way to distinguish the 6 channels to different colors, levels of saturation, and opacity, so I used the "amp" value of each instrument as a unique identifier and mapped amp to colors.
