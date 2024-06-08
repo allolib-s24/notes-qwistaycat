@@ -12,7 +12,7 @@ https://github.com/allolib-s24/notes-qwistaycat/assets/53279091/60651c27-a234-49
 
 [1. plucked chimes](allolib_playground/tutorials/synthesis/bin/AddSyn-data/1.preset)
 
-[2. pian-jo (banjo )](allolib_playground/tutorials/synthesis/bin/AddSyn-data/2.preset)
+[2. pian-jo (piano x banjo)](allolib_playground/tutorials/synthesis/bin/AddSyn-data/2.preset)
 
 [3. triangle](allolib_playground/tutorials/synthesis/bin/AddSyn-data/3.preset)
 
