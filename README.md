@@ -43,6 +43,8 @@ See project 2 above for this section.
 
 I added an option for the waveform to change color, saturation, or value (opacity) based on the channel playing, so that there was a different color every instrument. In order to do this, I needed a way to distinguish the 6 channels to different colors, levels of saturation, and opacity, so I used the "amp" value of each instrument as a unique identifier and mapped amp to colors.
 
-Final [midi-to-synthsequence file](allolib_playground/tutorials/synthesis/midi_to_synthsequence.py)
+Files Editted:
+- [midi-to-synthsequence.py](allolib_playground/tutorials/synthesis/midi_to_synthsequence.py) converter script
+- [07_AddSyn_Waveform.cpp](allolib_playground/tutorials/synthesis/07_AddSyn_Waveform.cpp) with added channel-specific visuals
 
-# [End Project](https://youtu.be/MgQTpIPndlM)
+# [End Project: Demo](https://youtu.be/MgQTpIPndlM)
