@@ -16,21 +16,21 @@ MIDI_FILE_NAME = "CyberWorld2"
 #   table = channel_to_instrument[msg.channel]
 ## set your instruments here! the table above shows the available instruments' indices are.
 channel_to_instrument = { 
-    0:6, #6
-    1:3, #3
-    2:5, #5
-    3:4, #0, 2, 4
-    4:6, #6, 2, 4 - long notes toward the end, and part of melodyish
-    5:3, #1, 3
-    6:6, #6, 2, 4 - submelodies
-    7:6, #5, 6 - submelodies, and bass beat bits
-    8:5, #1, 3, 5
-    9:2, #6, 2, 4 - submelodies
-    10:3, #1, 3
-    11:4, #4, 6
-    12:3, #2, 4, 3 - soprano bits of melody, a little bit after halfway
-    13:1, #1, 3
-    14:5, #2, 4 - submelody of 4
+    0:6, 
+    1:3, 
+    2:5, 
+    3:4, 
+    4:6, 
+    5:3, 
+    6:6, 
+    7:6, 
+    8:5, 
+    9:2, 
+    10:3, 
+    11:4, 
+    12:3, 
+    13:1, 
+    14:5, 
     15:5,
     16:5
 }
