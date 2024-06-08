@@ -32,10 +32,16 @@ At first, I wanted to remake the sound of a variety of real instruments like gui
 
 This project had several parts:
 1. Multi-instrumental midi to synth-sequence conversion
+
 hi
+
 2. Custom Instruments (Project 2)
+
 hi
+
 3. Visuals
+
 hi
+
 
 ## Reflection
