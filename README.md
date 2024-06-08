@@ -8,7 +8,7 @@ https://github.com/allolib-s24/notes-qwistaycat/assets/53279091/60651c27-a234-49
 ## Project 2 -- Sound Synthesis: Five funky instruments made with 07_AddSyn.cpp
 - Values for each instrument are:
 
-[0. xylophone]
+[0. xylophone](allolib_playground/tutorials/synthesis/bin/AddSyn-data/0.preset)
 
 [1. plucked chimes]
 
